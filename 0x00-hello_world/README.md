@@ -6,6 +6,8 @@
 
 #3-name - A script that compiles a C file and creates executable named cisfun, and a C file name will be saved in the variable $CFILE. 
 
-#4-name - A script that prints exactly "Programming is like building a multilingual puzzle" , folllowed by new line. use function puts and you are not allowed to use printf. your program should end with value 0.
+#4-puts.c - A program that prints exactly "Programming is like building a multilingual puzzle" , folllowed by new line. use function puts and you are not allowed to use printf. your program should end with value 0.
 
-#5
+#5-printf.c - A program that prints exactly "with proper grammar, but the outcome is a piece of art," followed by a new line. use the function printf.
+
+#6.
