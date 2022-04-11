@@ -14,4 +14,6 @@
 
 #100-intel - A script that generates the assembly code(intel syntax) of a C code and save it in an output file. and a C file will ba saved in the variable        $CFILE , then the output file should be named the same as the C file, but with the extension .s instead of .c   .
 
+#101-qoute.c - A program that prints exactly "and that piece of art is useful" - Dora korpar, 2015-10-19" , followed by new line, to the standard error. You are not allowed to use any functions listed in the NAME section of the man(3) printf or man(3) puts and also your program should return 1, again your compile should compile without any warnings when using the -wall gcc option.
+
 
