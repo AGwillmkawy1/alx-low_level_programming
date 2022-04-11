@@ -12,4 +12,6 @@
 
 #6-size.c - A C program that prints the size of various types on the computer it is compiled and run on. you should produce the same output as in the example.
 
-#7
+#100-intel - A script that generates the assembly code(intel syntax) of a C code and save it in an output file. and a C file will ba saved in the variable        $CFILE , then the output file should be named the same as the C file, but with the extension .s instead of .c   .
+
+
