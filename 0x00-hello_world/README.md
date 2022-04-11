@@ -10,4 +10,6 @@
 
 #5-printf.c - A program that prints exactly "with proper grammar, but the outcome is a piece of art," followed by a new line. use the function printf.
 
-#6.
+#6-size.c - A C program that prints the size of various types on the computer it is compiled and run on. you should produce the same output as in the example.
+
+#7
