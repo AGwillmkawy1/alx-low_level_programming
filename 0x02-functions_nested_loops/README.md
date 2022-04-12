@@ -10,4 +10,6 @@
 
 #5-sign.c : Write a function that prints a sign of a number whereby it will print + if n is greater than zero and return 1, print 0 if n is equal to zero and    return 0, and also print - if n is less than zero.
 
-#6
+#6-abs.c : Write a function that computes the absolute value of an integer.
+
+#7
