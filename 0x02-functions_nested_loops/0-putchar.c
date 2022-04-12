@@ -1,10 +1,10 @@
-#include "main.h"
+#include<main.h>
 /**
  * main - main block
  * Description: print exactly _putchar followed by new line
  * Return : this program returns zero
  */
-int main(void)
+int main(char)
 {
 _putchar('_');
 _putchar('p');
