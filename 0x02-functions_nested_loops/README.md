@@ -8,4 +8,6 @@
 
 #4-isalpha.c : Write a function that checks for alphabetic character. return 1 if c is a letter, uppercase or lowercase otherwise return 0.
 
-#5
+#5-sign.c : Write a function that prints a sign of a number whereby it will print + if n is greater than zero and return 1, print 0 if n is equal to zero and    return 0, and also print - if n is less than zero.
+
+#6
