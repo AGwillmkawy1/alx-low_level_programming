@@ -14,4 +14,6 @@
 
 #7-print_last_digit.c : Write a function that prints the last digit of a number and also return the value of a last digit.
 
-#8
+#8-24_hours.c : Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+
+#9
