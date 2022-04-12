@@ -2,7 +2,7 @@
 /**
  * main - main block
  * Description: print exactly _putchar followed by new line
- * Return : this program returns zero
+ * Return:this program returns 0
  */
 int main(void)
 {
