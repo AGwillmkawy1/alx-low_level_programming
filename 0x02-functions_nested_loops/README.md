@@ -6,4 +6,6 @@
 
 #3-islower.c : Write a function that checks lowercase character. return 1 if c is lowercase and return 0 otherwise.
 
-#4
+#4-isalpha.c : Write a function that checks for alphabetic character. return 1 if c is a letter, uppercase or lowercase otherwise return 0.
+
+#5
