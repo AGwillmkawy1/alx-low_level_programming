@@ -22,4 +22,6 @@
 
 #11-print_to_98 : Write a function that prints all natural numbers from to 98. followed by new line.
 
-#12
+#12- 100-times_table: Write function that the n times table, starting with 0. if n is greater than 15 or less than 0 it should print nothing.
+
+#13.
