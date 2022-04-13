@@ -20,4 +20,6 @@
 
 #10_add.c : Write a function that adds two integers and return the result.
 
-#11.
+#11-print_to_98 : Write a function that prints all natural numbers from to 98. followed by new line.
+
+#12
