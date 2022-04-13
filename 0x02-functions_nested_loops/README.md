@@ -18,4 +18,6 @@
 
 #9-times_table.c : Write finction that prints the 9 times table, starting with zero.
 
-#10
+#10_add.c : Write a function that adds two integers and return the result.
+
+#11.
