@@ -24,4 +24,4 @@
 
 #12- 100-times_table: Write function that the n times table, starting with 0. if n is greater than 15 or less than 0 it should print nothing.
 
-#13.
+#13- 101-natural.c : write aprogram that will computes and prints all multiples of 3 and 5 below 1024.
